@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sparmon7
+- 👀 I’m majoring in Computer Science and Economics at Washington University in St. Louis
+- 📫 You can reach me at spencerarmon473@gmail.com
