@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sparmon7 (Spencer Armon)
 - 👀 I’m a member of the Class of 2024 at Washington University in St. Louis majoring in Computer Science and Economics
-- 🗠 I am looking for a Summer Internship in Software Development/Engineering 
+- 📈 I am looking for a Summer Internship in Software Development/Engineering 
 - 📫 You can reach me at spencerarmon473@gmail.com
